@@ -1,2 +1,2 @@
 # search-ai-guard
-Blocks Gemini results on managed Chromebooks for K-12 education environments
+Blocks Google AI Mode and AI Overviews on managed Chromebooks for K-12 education environments
